@@ -1,0 +1,60 @@
+{
+  "patients": [
+    {
+      "id": "ID123Marie22/05/1975",
+      "Nom": "ID123",
+      "Prénom": "Marie",
+      "Date de naissance": "22/05/1975",
+      "Lieu de naissance": "Sure",
+      "Adresse": "2, place de la fontaine 36200 Sure",
+      "Téléphone": "04 77 46 00 33",
+      "E-mail": "exemple@malade.fr",
+      "Situation familiale": "Mariée 5 enfants",
+      "Profession": "Retraitée",
+      "sociale": "2 39 05 34 222 999 / 35",
+      "Allergies et intolérances": "Aucune"
+    },
+    {
+      "id": "EXEMPLEJeanDubois10/12/1988",
+      "Nom": "EXEMPLE",
+      "Prénom": "Jean",
+      "Date de naissance": "10/12/1988",
+      "Lieu de naissance": "SÈTE",
+      "Adresse": "8, avenue des Pins 34130 SÈTE",
+      "Téléphone": "04 67 46 00 33",
+      "E-mail": "exemple@applimed.fr",
+      "Situation familiale": "Célibataire",
+      "Profession": "Ingénieur",
+      "sociale": "2 39 05 34 999 999 / 35",
+      "Allergies et intolérances": "Aucune"
+    },
+    {
+      "id": "ExempleSophieLeroux15/06/1982",
+      "Nom": "Exemple",
+      "Prénom": "Sophie",
+      "Date de naissance": "15/06/1982",
+      "Lieu de naissance": "SÈTE",
+      "Adresse": "12, chemin des Roses 34250 SÈTE",
+      "Téléphone": "04 67 46 00 33",
+      "E-mail": "exemple@applimed.fr",
+      "Situation familiale": "Divorcée 1 enfant",
+      "Profession": "Enseignante",
+      "sociale": "2 39 05 34 999 999 / 35",
+      "Allergies et intolérances": "Aucune"
+    },
+    {
+      "id": "EXEMPLEMarie22/05/1939",
+      "Nom": "EXEMPLE",
+      "Prénom": "Marie",
+      "Date de naissance": "22/05/1939",
+      "Lieu de naissance": "SÈTE",
+      "Adresse": "2, place de la République 34200 SÈTE",
+      "Téléphone": "04 67 46 00 33",
+      "E-mail": "exemple@applimed.fr",
+      "Situation familiale": "Mariée 2 enfants",
+      "Profession": "Retraitée",
+      "sociale": "2 39 05 34 999 999 / 35",
+      "Allergies et intolérances": "ALLERGIE À LA PÉNICILLINE"
+    }
+  ]
+}

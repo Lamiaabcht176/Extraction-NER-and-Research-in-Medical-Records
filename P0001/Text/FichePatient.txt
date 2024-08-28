@@ -1,0 +1,268 @@
+29/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Docteur APPLIMED
+médecine générale
+10, bd Danielle-Casanova
+34200 SÈTE
+Tél. cabinet : 04 67 46 00 33
+Tél. domicile : 04 67 51 03 59
+Télécopie : 09 56 08 01 46
+contact@applimed.fr
+N° AM : 001012343 - N° RPPS : 12345678903
+Dossier médical de Mme Marie EXEMPLE
+Créé le : 05/09/1995. Mis à jour le : 09/08/2012 à 11:22:48
+Dernière consultation : 03/11/2008
+Rappel Contrôler glycémie
+Fiche administrative
+Antécédents
+Biométrie
+Traitement chronique
+Historique des consultations [>]
+Ordonnances [>]
+Courriers [>]
+Vaccinations [>]
+Examens biologiques [>]
+Planification [>]
+Fiche administrative
+Nom EXEMPLE
+Prénom Marie
+Date de naissance 22/05/1939
+Lieu de naissance SÈTE
+Adresse 2, place de la République
+34200 SÈTE
+Téléphone 04 67 46 00 33
+E-mail exemple@applimed.fr
+Situation familiale Mariée
+2 enfants
+Profession Retraitée
+N° Séc. sociale 2 39 05 34 999 999 / 35
+Caisse SÈTE
+Assuré EXEMPLE Marie
+applimed.free.fr/exemple.htm 1/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Particularités ALD
+Médecin traitant Docteur APPLIMED (12/01/2007)
+Correspondants DUBOIS
+Mots clés Diabète de type 2,Hypercholestérolémie,Hypertension artérielle
+Sommaire
+Antécédents
+Antécédents médicaux et facteurs de risque Hypertension artérielle (1975)
+Hypercholestérolémie (1983)
+Diabète de type 2
+Antécédents chirurgicaux et obstétricaux Appendicectomie (1946)
+Antécédents familiaux Père : Hypertension artérielle
+Allergies et intolérances ALLERGIE À LA PÉNICILLINE
+Sommaire
+Biométrie
+Taille 1,65 m
+IMC : 23,51
+Poids 64,0 kg
+Groupe sanguin O Rh +
+Indicateurs Clairance de la créatinine : 54,96 ml/mn le 11/06/2007 (MDRD) Insuffisance
+biologiques rénale modérée
+Hémoglobine glycosylée : 7,65 % le 22/10/2006
+LDL cholestérol : 1,60 g/l le 11/06/2007
+Sommaire
+Traitement chronique au 14/11/2005
+ODRIK 2 mg : une gélule par jour
+DIAMICRON 30 mg : 1 comp. le matin
+Sommaire
+Historique des consultations
+Taille Poids
+Date Acte Motif T.A. Pouls Observation A.T.
+(m) (kg)
+applimed.free.fr/exemple.htm 2/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+28/09/1995 C Angine 1,65 67,0 14,0 / 88 Dysphagie douloureuse
+8,0 depuis 48 h.
+Fièvre 38°5
+21/01/1996 C Conjonctivite 68,0 Conjonctivite bilatérale
+Larmoiement, pus à
+l'angle interne
+Ordonnance
+27/11/1996 V Bronchite 69,0 Toux grasse, fièvre à
+38°
+Ordonnance
+13/12/1996 V Lombalgie 16,0 / [Visite]
+9,0 58 ans, 1 mois, 19 jours
+Douleurs
+paravertébrales D
+Lasègue 60° à D
+ROT +
+Ordonnance
+14/12/1996 C Renouvellement 70,0 15,0 / 76 Diabète de type 2 [E11]
+8,0
+Certificat
+15/09/2005 C Gastro-entérite 64,0 14,0 / 80 [Consultation] 1 j.
+8,0
+66 ans, 10 mois, 20
+jours
+Etat nauséeux, diarrhée
+[A08.4]
+Indice de masse
+corporelle : 23,80
+(NORMAL)
+Ordonnance
+14/11/2005 C Douleurs 68,0 15,0 / 78 [Consultation]
+précordiales 9,0 66 ans, 5 mois, 23 jours
+Douleurs précordiales
+[R07.2]
+Ordonnance
+Courrier
+03/11/2008 C Pneumopathie 1,65 64,0 14,0 / 84 [Consultation] 6 j.
+7,0 69 ans, 5 mois, 12 jours
+Pneumopathie [A02.2]
+Sommaire
+Ordonnances
+applimed.free.fr/exemple.htm 3/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Date Catégorie Prescription
+21/01/1996 Pharmacie ** ALD **
+ASPÉGIC 1000 : 1 sachet 2 à 3 fois par jour, selon l'intensité des douleurs (1
+bte)
+ATHYMIL 10 mg : un comp. au coucher - Q.S.P. 1 mois
+** HORS ALD **
+CÉBÉMYXINE pommade ophtalmique : 1 application matin et soir au bord de
+la paupière inférieure
+27/11/1996 Pharmacie ** ALD **
+BRISTAMOX gél. 500 mg : 2 gélules matin et soir pendant 8 jours
+BRONCHOKOD sans sucre sol. buv. adultes (fl. 300 ml) : une cuiller à soupe
+matin, midi et soir pendant 8 jours
+DOLIPRANE comp. : 1 à 2 comp. 3 fois par jour selon les douleurs (1 bte)
+13/12/1996 Pharmacie DIANTALVIC gélules : une à deux gélules 3 fois par jour, selon l'intensité des
+douleurs (1 bte)
+MYOLASTAN comp. : un comp. le soir pendant 15 jours
+KETUM comp. 100 mg : un comp. matin et soir au cours des repas pendant 6
+jours
+15/09/2005 Pharmacie MOTILIUM comp. : 1 comp. matin, midi et soir, 1/4 d'heure avant les repas,
+pendant 8 jours
+SMECTA : un sachet matin, midi et soir, avant les repas, pendant 8 jours
+IMODIUM gél. : prendre 2 gélules d'emblée, puis une gélule après chaque selle
+liquide (sans dépasser 5 gél. / jour)
+14/11/2005 Biologie EXAMEN DE SANG :
+Glycémie à jeun
+Hb A1c
+Créatinine
+Cholestérol total et HDL
+EXAMEN D'URINES :
+ECBU
+Glycosurie
+Microalbuminurie
+Prélèvement à domicile
+14/11/2005 Chronique ** ALD **
+ODRIK 2 mg : une gélule par jour - Q.S.P. 1 mois
+DIAMICRON 30 mg : 1 comp. le matin - Q.S.P. 1 mois
+applimed.free.fr/exemple.htm 4/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Sommaire
+Courriers et certificats
+Date Catégorie Destinataire Texte
+14/12/1996 Certificat
+Je soussigné Docteur APPLIMED certifie que l'état de santé de
+Mme Marie EXEMPLE, demeurant 2, Place de la République -
+34200 SÈTE, n° d'immatriculation : 2 28 10 34 999 999 / 72,
+justifie le renouvellement de l'exonération du ticket modérateur
+accordée au titre des affections de longue durée.
+Certificat délivré à l'intéressée et destiné au contrôle médical de
+sa Caisse d'assurance maladie.
+14/11/2005 Courrier Docteur Cher ami,
+Jean-Claude
+DUBOIS Je t'adresse Mme Marie EXEMPLE, âgée de 68 ans.
+Cette patiente se plaint de douleurs précordiales atypiques.
+Compte-tenu de ses antécédents diabétiques, je lui conseille de te
+consulter.
+Avec mes remerciements,
+Bien cordialement,
+30/10/2006 Courrier Docteur Cher Confrère,
+Jean-Claude
+DUBOIS Je vous adresse Mme Marie EXEMPLE, âgée de 72 ans, qui
+présente
+Antécédents :
+Hypertension artérielle (1975)
+Hypercholestérolémie (1983)
+Diabète de type 2
+Appendicectomie (1946)
+ALLERGIE À LA PÉNICILLINE
+Antécédents familiaux :
+Père : Hypertension artérielle
+Poids : 64,0 kg pour 1,65 m (IMC 23,51)
+applimed.free.fr/exemple.htm 5/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Traitement chronique au 14/11/2005
+ODRIK 2 mg : une gélule par jour
+DIAMICRON 30 mg : 1 comp. le matin
+Consultation du 03/11/2008 pour Pneumopathie :
+Taille : 1,65 m Poids : 64,0 kg Pouls : 84 TA : 14 / 7
+[Consultation]
+69 ans, 5 mois, 12 jours
+************************************************
+Pneumopathie [A02.2]
+Examen biologique du 11/06/2007 :
+Hématies 4,56 (M/mm3: 4,2-5,4)
+Hémoglobine 14,8 (g/100 ml : 12-16)
+Hématocrite 43,5 (% 37-54)
+VGM 92,4 (µ3 : 89-95)
+Leucocytes 5520 (/mm3 : 4000-10000)
+PN neutrophiles 59 (% : 55-70)
+PN éosinophiles 3 (% : 0-3)
+PN basophiles 0 (% : 0-1)
+Lymphocytes 30 (% : 20-35)
+Monocytes 8 (% : 2-10)
+Plaquettes 433000 (/mm3 : 150000-400000)
+Glycémie 0,94 (g/l : 0,70-1,10)
+Créatinine 10,5 (mg/l : 5,6-11,3)
+Cholestérol 2,81 (g/l : 1,2-2,0) **
+Cholestérol HDL 0,93 (g/l : 0,35-0,55)
+Cholestérol LDL 1,60 (g/l : < 1,60) *
+Triglycérides 1,41 (g/l : 0,45-1,80)
+Ferritine 148 (µg / l : 30-300)
+TSH-u.s. 3,11 (mU/l : 0,25-4,70)
+Clairance de la créatinine :
+Formule de Cockroft-Gault : 49,70 ml/mn (insuffisance rénale
+modérée)
+Ordonnance du 14/11/2005 :
+ODRIK 2 mg : une gélule par jour - Q.S.P. 1 mois
+DIAMICRON 30 mg : 1 comp. le matin - Q.S.P. 1 mois
+Avec tous mes remerciements,
+Bien confraternellement,
+Sommaire
+applimed.free.fr/exemple.htm 6/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+Vaccinations
+Date Vaccin Injection Méthode Lot Résultat Rappel
+20/05/1995 Tétavax R SC deltoïde G 20/05/2005
+Sommaire
+Examens biologiques
+Date Texte
+22/10/2006 Glycémie 1.10 (g/l : 0,70-1,10)
+Créatinine 9.5 (mg/l : 5,6-11,3)
+Natrémie 143 (mEq/l : 135-145)
+Kaliémie 4.2 (mEq/l : 3,5-5,1)
+Calcémie 99 (mg/l : 90-105)
+Phosphorémie (mg/l : 25-50)
+Ac. urique 65 (mg/l : 25-60)
+Hb A1c 7,65 (%: 4,5-6,3)
+CLAIRANCE DE LA CRÉATININE = 56 ml/mn (INSUFFISANCE RÉNALE MODÉRÉE)
+Estimation de la glycémie moyenne sur 120 jours : 1,69 g/l (9,37 mmol/l)
+11/06/2007 Hématies 4,56 (M/mm3: 4,2-5,4)
+Hémoglobine 14,8 (g/100 ml : 12-16)
+Hématocrite 43,5 (% 37-54)
+VGM 92,4 (µ3 : 89-95)
+Leucocytes 5520 (/mm3 : 4000-10000)
+PN neutrophiles 59 (% : 55-70)
+PN éosinophiles 3 (% : 0-3)
+PN basophiles 0 (% : 0-1)
+Lymphocytes 30 (% : 20-35)
+Monocytes 8 (% : 2-10)
+Plaquettes 433000 (/mm3 : 150000-400000)
+Glycémie 0,94 (g/l : 0,70-1,10)
+Créatinine 10,5 (mg/l : 5,6-11,3)
+Cholestérol 2,81 (g/l : 1,2-2,0) **
+Cholestérol HDL 0,93 (g/l : 0,35-0,55)
+Cholestérol LDL 1,60 (g/l : < 1,60) *
+Triglycérides 1,41 (g/l : 0,45-1,80)
+Ferritine 148 (µg / l : 30-300)
+TSH-u.s. 3,11 (mU/l : 0,25-4,70)
+Clairance de la créatinine :
+Formule de Cockroft-Gault : 49,70 ml/mn (insuffisance rénale modérée)
+Sommaire
+Planification
+Prévu le Objet Fait le Périodicité Commentaire ou résultat
+applimed.free.fr/exemple.htm 7/829/10/2023 13:01 Dossier médical de Mme Marie EXEMPLE
+15/05/2003 Mammographie 20/03/2003 Biennale Normale.
+Sommaire
+Document généré par Publimed • Applimed - © Dr P. Elzière, 2012 - Tous droits réservés.
+applimed.free.fr/exemple.htm 8/8

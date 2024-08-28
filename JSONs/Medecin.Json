@@ -1,0 +1,18 @@
+{
+    "Medecins":[
+        {
+            "idMedecin":1,
+            "Nom": "nom",    
+            "Prénom": "prenom",
+            "Genre":"genre",
+            "Statut":"statut",
+            "DateDeNaissance": "date",
+            "Specialité": "Specialite",
+            "Etablissement": "Etablissement",
+            "Identifiantprofessionnel": "id",
+            "Mail": "mail",
+            "telephone":"tel",
+            "Expérience":"3"
+        }
+        ] 
+}

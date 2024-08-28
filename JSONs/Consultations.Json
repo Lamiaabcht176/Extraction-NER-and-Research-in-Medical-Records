@@ -1,0 +1,174 @@
+{
+  "Consultations": [
+    {
+      "IdConsultation": "EXEMPLEMarie22/05/1939testMedecin0107/02/2024",
+      "IdPatient": "EXEMPLEMarie22/05/1939",
+      "IdMedecin": "testMedecin01",
+      "Date": "07/02/2024",
+      "Syptomes": null,
+      "Diagnostic": null,
+      "Prescription": [
+        "CLAMOXYL 500 mg 2 gélules matin et soir",
+        "LOSEC 20 mg 1 gélule le matin pendant 1 mois",
+        "LACTIBIANE 1 sachet dans un verre deau le matin pendant 20 jours"
+      ],
+      "Nombrededocuments": 3,
+      "Analyses": [
+        {
+          "Valeur d'analyse": [
+            "7.08"
+          ],
+          "intituleAnalyse": [
+            "leucocytes"
+          ],
+          "decisionanalyse": "Correcte"
+        },
+        {
+          "Valeur d'analyse": [
+            "2.25"
+          ],
+          "intituleAnalyse": [
+            "lymphocytes"
+          ],
+          "decisionanalyse": "Correcte"
+        },
+        {
+          "Valeur d'analyse": [
+            "0.53"
+          ],
+          "intituleAnalyse": [
+            "monocytes"
+          ],
+          "decisionanalyse": "Correcte"
+        },
+        {
+          "Valeur d'analyse": [
+            "298"
+          ],
+          "intituleAnalyse": [
+            "plaquettes"
+          ],
+          "decisionanalyse": "Correcte"
+        }
+      ],
+      "Rapports": [
+        {
+          "intituleRapprt": "compte rendu radiographie",
+          "description": [
+            "Radiographie de lavant piedgaucheF314",
+            "intgrit osseuse et articulaire",
+            "mineralisation",
+            "osseuse normale"
+          ],
+          "DecisionRapport": "pas de trait de fracture visible sur cet examen"
+        }
+      ]
+    },
+    {
+      "IdConsultation": "ID456JeanDubois10/12/1988DrMartin0207/02/2024",
+      "IdPatient": "ID456JeanDubois10/12/1988",
+      "IdMedecin": "DrMartin02",
+      "Date": "07/02/2024",
+      "Symptomes": "Toux, Fatigue",
+      "Diagnostic": "Rhume",
+      "Prescription": [
+        "SIROP contre la toux",
+        "COMPRIMÉS pour le rhume",
+        "Beaucoup de LIQUIDES"
+      ],
+      "Nombrededocuments": 1,
+      "Analyses": [
+        {
+          "intituleAnalyse": "Globules rouges",
+          "Valeur d'analyse": 4.5,
+          "decisionanalyse": "Normal"
+        },
+        {
+          "intituleAnalyse": "Numération plaquettaire",
+          "Valeur d'analyse": 200000.0,
+          "decisionanalyse": "Normal"
+        }
+      ],
+      "Rapports": [
+        {
+          "intituleRapport": "Rapport d'analyse sanguine",
+          "description": [
+            "Numération globulaire complète",
+            "Aucune anomalie détectée"
+          ],
+          "DecisionRapport": "Résultats normaux de l'analyse sanguine"
+        }
+      ]
+    },
+    {
+      "IdConsultation": "ID789SophieLeroux15/06/1982DrLefevre0307/02/2024",
+      "IdPatient": "ID789SophieLeroux15/06/1982",
+      "IdMedecin": "DrLefevre03",
+      "Date": "07/02/2024",
+      "Symptomes": "Douleurs articulaires, Gonflement",
+      "Diagnostic": "Arthrite rhumatoïde",
+      "Prescription": [
+        "MÉTHOTREXATE 15 mg une fois par semaine",
+        "PRÉDNISONE 5 mg par jour",
+        "NAPROXÈNE 500 mg deux fois par jour"
+      ],
+      "Nombrededocuments": 3,
+      "Analyses": [
+        {
+          "intituleAnalyse": "Vitesse de sédimentation des érythrocytes",
+          "Valeur d'analyse": 30.0,
+          "decisionanalyse": "Élevée"
+        },
+        {
+          "intituleAnalyse": "Protéine C-réactive",
+          "Valeur d'analyse": 10.0,
+          "decisionanalyse": "Élevée"
+        }
+      ],
+      "Rapports": [
+        {
+          "intituleRapport": "Évaluation de l'arthrite rhumatoïde",
+          "description": [
+            "Examen des articulations",
+            "Inflammation et gonflement observés",
+            "Facteur rhumatoïde positif"
+          ],
+          "DecisionRapport": "Diagnostic confirmé d'arthrite rhumatoïde"
+        }
+      ]
+    },
+    {
+      "IdConsultation": "ID123Marie22/05/1975DrDupont0107/02/2024",
+      "IdPatient": "ID123Marie22/05/1975",
+      "IdMedecin": "DrDupont01",
+      "Date": "07/02/2024",
+      "Syptomes": null,
+      "Diagnostic": null,
+      "Prescription": null,
+      "Nombrededocuments": 3,
+      "Analyses": [
+        {
+          "intituleAnalyse": "Globules blancs",
+          "Valeur d'analyse": 8500.0,
+          "decisionanalyse": "Normal"
+        },
+        {
+          "intituleAnalyse": "Hémoglobine",
+          "Valeur d'analyse": 14.0,
+          "decisionanalyse": "Normal"
+        }
+      ],
+      "Rapports": [
+        {
+          "intituleRapport": "Compte rendu radiographique",
+          "description": [
+            "Radiographie du thorax",
+            "Champs pulmonaires clairs",
+            "Aucune anomalie détectée"
+          ],
+          "DecisionRapport": "Pas de signes de pneumonie ou d'infection pulmonaire"
+        }
+      ]
+    }
+  ]
+}
