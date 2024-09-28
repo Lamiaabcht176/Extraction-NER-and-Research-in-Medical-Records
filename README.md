@@ -1,30 +1,30 @@
-# Extraction, Reconnaissance et Recherche dans les Dossiers Médicaux
+# Extraction, Recognition and Research in Medical Records
 
-Ce code a été élaboré dans le but d'automatiser la gestion des dossiers médicaux en effectuant l'extraction du texte, la reconnaissance des entités nommées, et en permettant une recherche précise au sein des documents.
+This code was developed to automate the management of medical records by performing text extraction, named entity recognition (NER), and enabling precise search within the documents.
 ![image](https://github.com/ZinebAissaoui/Projet_S2D/assets/150697197/793232e6-b839-4d6f-9142-f6036ff8d7de)
 
 
-## Fonctionnement du Code
+## Code Functionality
 
-### 1. Extraction du Texte
+### 1. Text Extraction
 
-Le code récupère les dossiers médicaux au format PDF et détecte la présence d'images scannées. Pour les PDF natifs, il utilise la bibliothèque pdfplumber de PyPDF2 pour extraire les données textuelles. Pour les PDF scannés, la reconnaissance optique de caractères (OCR) est effectuée à l'aide de la bibliothèque doctr. Les dossiers médicaux sont ensuite stockés dans des fichiers .txt pour une manipulation ultérieure.
+The code retrieves medical records in PDF format and detects the presence of scanned images. For native PDFs, it uses the pdfplumber library from PyPDF2 to extract text data. For scanned PDFs, optical character recognition (OCR) is performed using the doctr library. The extracted medical records are then stored in .txt files for further manipulation.
 
-### 2. Reconnaissance des Entités Nommées
+### 2. Named Entities Recognition
 
-Pour les fichiers d'analyses sanguines, le code utilise le corpus Quaero pour entraîner un Conditional Random Fields (CRF) Tagger qui identifie les entités nommées pertinentes. Pour les autres types de documents, des expressions régulières (Regex) sont employées pour reconnaître les entités nommées. Ensuite, les métadonnées sont générées, et le schéma JSON est défini pour structurer les données. Les informations sont ensuite stockées dans une base de données JSON.
+For blood test files, the code uses the Quaero corpus to train a Conditional Random Fields (CRF) Tagger, which identifies relevant named entities. For other types of documents, regular expressions (Regex) are used to recognize named entities. Afterward, metadata is generated, and the JSON schema is defined to structure the data. The information is then stored in a JSON database.
 
-### 3. Moteur de Recherche
+### 3. Search Engine
 
-Le code vectorise les données textuelles à l'aide de transformers, puis crée un fichier d'embedding. Ensuite, il calcule le score de similarité en utilisant la similarité cosinus entre la requête de recherche et les embeddings des dossiers médicaux. Enfin, le code affiche les mots similaires et leur contexte dans les dossiers médicaux.
+The code vectorizes the text data using transformers, then creates an embedding file. It then calculates the similarity score using cosine similarity between the search query and the embeddings of the medical records. Finally, the code displays similar words and their context within the medical records.
 
-## 4. Description des Dossiers de ce GitHub
+## 4. Folders description in this Github
 
-- **Dossier Analyse**: Contient le code qui utilise le CRF Tagger pour extraire les entités nommées et les structurer pour les stocker dans des fichiers JSON. Les autres codes concernent le traitement de la base de données QUAERO et l'entraînement du modèle CRF.
-- **Dossier Ordonnance**: Pour le traitement des ordonnances, l'extraction des entités nommées, et leur structuration dans des fichiers JSON.
-- **Dossier FichePatient**: Pour le traitement des fiches patient et la création d'expressions régulières (Regex).
-- **Dossier CR**: Pour le traitement des comptes rendus des radios et des scanners, l'extraction des entités nommées, et leur structuration dans des fichiers JSON.
-- **Jsons**: Stocke les fichiers au format JSON, notamment ceux des métadonnées ainsi que ceux des embeddings.
-- **Moteur de Recherche**: Développement de toutes les fonctionnalités liées au moteur de recherche, y compris les embeddings et les similarités.
-- **Fichier Total Run**: Regroupe toutes les fonctions utilisées pour les parties d'extraction des données, NER, création des JSON, ainsi que l'embedding des métadonnées et leur stockage.
-- **P001**: Dossier patient sur lequel nous avons effectué nos tests.
+- **Analyse Folder**: Contains the code that uses the CRF Tagger to extract named entities and structure them for storage in JSON files. Other codes deal with processing the QUAERO database and training the CRF model.
+- **Ordonnance Folder**:  For processing prescriptions, extracting named entities, and structuring them in JSON files.
+- **FichePatient Folder**: For processing patient records and creating regular expressions (Regex).
+- **CR Folder**: For processing radiology and scan reports, extracting named entities, and structuring them in JSON files.
+- **Jsons**: SStores files in JSON format, including metadata files as well as embeddings.
+- **Moteur de Recherche**: Development of all functionalities related to the search engine, including embeddings and similarities.
+- **Fichier Total Run**: Groups all the functions used for data extraction, NER, creation of JSON files, as well as embedding the metadata and storing them.
+- **P001**: Patient folder used for testing purposes.
