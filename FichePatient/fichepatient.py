@@ -44,7 +44,7 @@ def extract_personal_info(texte, field_list):
     return extracted_info
 
 # fields_to_extract = ['Nom', 'Prénom', 'Date de naissance', 'Lieu de naissance', 'Adresse', 'Téléphone', 'E-mail', 'Situation familiale', 'Profession', 'sociale','Allergies']
-# output_file_path= "C:\\Users\\zaiss\\OneDrive\\Documents\\GitHub\\Projet_S2D\\P0001\Text\\exempleNA.txt"
+# output_file_path= "C:\\Users\\lamia\\Desktop\\Extraction-NER-Recherche\\P0001\\Text\\exemple.txt"
 # with open(output_file_path, 'r', encoding="windows-1252") as output_file:
 #                 extracted_text = output_file.read()
 # personal_info = extract_personal_info(extracted_text, fields_to_extract)
