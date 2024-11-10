@@ -10,17 +10,17 @@ from Analyses.analysecopy  import analyse
 from JsonsLoad.RemplirJson import patient_Json, consultations_Json
 from PDF_To_Text.native_or_scaned import is_scanned_pdf
 from Moteur_de_recherche.Embeddings import embedding
-#extracteur=Extraction("C:\Users\zaiss\OneDrive\Documents\GitHub\Projet_S2D\P0001\PDF\CRradio.pdf") # Insérer le nom de pdf, avant fait glisser le document dans la zone fichier à gauche
-#export_lignes_fichier = extracteur.export_lignes("C:\Users\zaiss\OneDrive\Documents\GitHub\Projet_S2D\P0001\Text\CRradio.txt")
+#extracteur=Extraction("C:\Users\lamia\Desktop\Extraction-NER-Recherche\P0001\PDF\CRradio.pdf") # Insérer le nom de pdf, avant fait glisser le document dans la zone fichier à gauche
+#export_lignes_fichier = extracteur.export_lignes("C:\Users\lamia\Desktop\Extraction-NER-Recherche\P0001\Text\CRradio.txt")
 
 
 # Remplacez "Extraction" par le nom de votre classe
 
 # Répertoire d'entrée pour les fichiers PDF
-input_directory = r"C:\\Users\\zaiss\\OneDrive\\Documents\\GitHub\\Projet_S2D\\P0001\\PDF\\"
+input_directory = r"C:\\Users\\lamia\\Desktop\\Extraction-NER-Recherche\\P0001\\PDF\\"
 
 # Répertoire de sortie pour les fichiers texte
-output_directory = r"C:\\Users\\zaiss\\OneDrive\\Documents\\GitHub\\Projet_S2D\\P0001\\Text\\"
+output_directory = r"C:\\Users\\lamia\\Desktop\\Extraction-NER-Recherche\\P0001\\Text\\"
 print("######### Etape 1: PDF to Text ################")
 
 # Parcours de tous les fichiers dans le répertoire d'entrée
@@ -104,8 +104,8 @@ for filename in os.listdir(output_directory):
         print(listes_analyses)
         print("----------Fin traitement analyse ---------------")
 print("######### Etape 3 : Ajout au fichier JSON ################")
-patient_Json_path= "C:/Users/zaiss/OneDrive/Documents/GitHub/Projet_S2D/JSONs/Patient.Json"
-consultations_Json_path="C:/Users/zaiss/OneDrive/Documents/GitHub/Projet_S2D/JSONs/Consultations.Json"
+patient_Json_path= "C:\Users\lamia\Desktop\Extraction-NER-Recherche\JSONs\Patient.Json"
+consultations_Json_path="C:\Users\lamia\Desktop\Extraction-NER-Recherche\JSONs\Consultations.Json"
 idpatient=personal_info['id']
 idmedecin='testMedecin01'
 date='07/02/2024'
@@ -115,6 +115,6 @@ consultations_Json(consultations_Json_path,listes_analyses,dict_CR,idpatient,idm
 patient_Json(patient_Json_path, personal_info)
 
 print("######### Etape 4 : Embeddings ################")
-path_consultation="C:/Users/zaiss/OneDrive/Documents/GitHub/Projet_S2D/JSONs/Consultations.Json"
+path_consultation="C:\Users\lamia\Desktop\Extraction-NER-Recherche\JSONs\Consultations.Json"
 embedding(path_consultation)
 
