@@ -1,7 +1,7 @@
 # Extraction, Recognition and Research in Medical Records
 
 This code was developed to automate the management of medical records by performing text extraction, named entity recognition (NER), and enabling precise search within the documents.
-![image](https://github.com/ZinebAissaoui/Projet_S2D/assets/150697197/793232e6-b839-4d6f-9142-f6036ff8d7de)
+![image](https://github.com/Lamiaabcht176/Extraction-NER-and-Research-in-Medical-Records/blob/main/overall_description.png)
 
 
 ## Code Functionality
